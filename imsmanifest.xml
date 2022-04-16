@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5hmldeYalxl" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">DnD Ability Scores</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="DnD_Ability_Scores_ORG">
+    <organization identifier="DnD_Ability_Scores_ORG">
+      <title>DnD Ability Scores</title>
+      <item identifier="DnD_Character_Sheet_SCO" isvisible="true" identifierref="__5hmldeYalxl_RES">
+        <title>DnD Ability Scores</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5hmldeYalxl_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5UwSFoTWrvp_80_DX1080_DY1080_CX117_CY849.jpg" />
+      <file href="mobile/5WIkuCOrXrY_80_DX656_DY656_CX515_CY368.png" />
+      <file href="mobile/6r0jQ37oURJ_80_DX644_DY644_CX506_CY361.png" />
+      <file href="mobile/6HoIdEHMKNK_80_DX64_DY64_CX50_CY50.jpg" />
+      <file href="mobile/6GrS5QAexlA_80_DX684_DY684_CX405_CY538.png" />
+      <file href="mobile/6gD0Dq4OCGa_80_DX714_DY714_CX401_CY561.png" />
+      <file href="mobile/6FOaZeDN0KQ_80_DX650_DY650_CX511_CY511.png" />
+      <file href="mobile/6Z2PhoRDy2l_80_DX696_DY696_CX302_CY545.png" />
+      <file href="mobile/5x3kvUWt8j2_80_DX704_DY704_CX261_CY551.png" />
+      <file href="mobile/5XGMjDKjE4w_80_DX640_DY640_CX429_CY487.png" />
+      <file href="mobile/6Z2PhoRDy2l_80_DX694_DY694_CX299_CY540.png" />
+      <file href="mobile/5x3kvUWt8j2_80_DX706_DY706_CX262_CY553.png" />
+      <file href="mobile/5XGMjDKjE4w_80_DX642_DY642_CX445_CY505.png" />
+      <file href="mobile/6qZJiFerqGz_80_DX144_DY144_CX72_CY71.png" />
+      <file href="mobile/5n7omX7ogim_80_DX142_DY142_CX111_CY111.png" />
+      <file href="mobile/5agLt6gozHe_80_DX142_DY142_CX111_CY111.png" />
+      <file href="mobile/5tIKPhR4FOu_80_DX142_DY142_CX111_CY111.png" />
+      <file href="mobile/5V9rsW1RqUM_80_DX142_DY142_CX111_CY111.png" />
+      <file href="mobile/6kGylXQOOCq_80_DX142_DY142_CX111_CY111.png" />
+      <file href="mobile/6AcdLXx4wQp_80_DX142_DY142_CX111_CY111.png" />
+      <file href="story_content/6TIeZgUgft0_44100_48_0.mp3" />
+      <file href="mobile/6KSRDKHUlWO_80_DX720_DY720_CX566_CY566.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5quilHXy3sV.js" />
+      <file href="html5/data/js/5qZDsAjVPGo.js" />
+      <file href="html5/data/js/66RM6s4asWi.js" />
+      <file href="html5/data/js/6H6DkWMD5ri.js" />
+      <file href="html5/data/js/6Q96004BaVd.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
